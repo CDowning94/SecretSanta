@@ -5,7 +5,7 @@
  * Secret Santa
  * This program takes a list of names in a .txt file, called "names.txt",
  * and creates a Secret Santa game using those people, so that each person
- * is buying for one other person, and no one is buying their own name.
+ * is buying for exactly one other person, and no one is buying their own name.
  */
 
 import java.util.*;
