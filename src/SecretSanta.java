@@ -1,6 +1,6 @@
 /**
  * Christopher Downing
- * September 2020
+ * September 4, 2020
  * 
  * Secret Santa
  * This program takes a list of names in a .txt file, called "names.txt",
